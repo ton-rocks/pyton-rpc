@@ -1,0 +1,12 @@
+{
+    "HOST": "0.0.0.0",
+    "PORT": 4800,
+    "LIB_PATH": "/usr/local/lib/libtonlibjson.so",
+    "GLOBAL_CONFIG": "/var/ton-work/test.rocks.config.json",
+    "WORKDIR": "/var/ton-work/db",
+    "MIN_WORKERS": 2,
+    "MAX_WORKERS": 10,
+    "TIMEOUT": 60,
+    "HELP_FILE": "help.html",
+    "DEBUG": true
+}
